@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: antiquewhite;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+h2{
+    color: aqua;
+    font-family: Papyrus;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
