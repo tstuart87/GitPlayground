@@ -21,6 +21,10 @@ p{
     color: white;
 }
 
+.coral{
+    color: coral;
+}
+
 div.contributorBox{
     border: 1px solid white;
     border-radius: 20px;
